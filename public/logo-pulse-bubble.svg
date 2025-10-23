@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="400" height="400" role="img" aria-labelledby="title3 desc3">
+  <title id="title3">Dark Chat logo - pulse bubble</title>
+  <desc id="desc3">Speech bubble with pulse lines and violet-cyan gradient</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="18" fill="#071028"/>
+  <g transform="translate(16,16)" stroke="url(#g1)" stroke-width="3" fill="none">
+    <path d="M10 36 Q20 10 46 22 Q72 34 82 10" stroke-linecap="round"/>
+    <path d="M8 44 L20 44 L24 34 L34 50 L46 24 L60 50 L74 30" stroke-linecap="round" opacity="0.95"/>
+  </g>
+  <text x="12" y="110" font-family="Inter, Arial, sans-serif" font-size="9" fill="#c7d2fe">Dark Chat</text>
+</svg>
